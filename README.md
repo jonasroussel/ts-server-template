@@ -52,6 +52,11 @@ Every route controllers are registered automaticly in the `router.ts`, inside th
 ## 🚀 How to run?
 
 ```sh
+# npm
 npm install
 npm run dev
+
+# yarn
+yarn install
+yarn run dev
 ```
